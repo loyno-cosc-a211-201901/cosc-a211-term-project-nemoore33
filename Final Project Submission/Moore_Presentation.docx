@@ -1,0 +1,28 @@
+Nyla Moore
+Final Project Presentation
+Script for Demonstration
+
+My project is a conversion tool to do conversions between metric and standard measurements.
+The program consists on many if statements based on the user’s responses to
+•	Whether the user is measuring length or volume
+•	Whether the user is going from metric to standard or standard to metric
+•	Base of the starting measurement
+•	Base of the ending measurement
+So, now I am going to begin the actual demonstration
+ask the audience
+Are we going to convert length or volume?
+audience picks either length or volume
+Okay, so is this conversion going from metric to standard or standard to metric?
+audience picks either s-m or m-s volume
+What is the base of our starting measurement?
+audience tells me base
+What is the base of our ending measurement?
+audience tells me base
+So finally, what is our actual measurement in whole numbers only?
+Audience tells me measurement
+Okay so the program tells us that (starting measurement and base)  is (ending measurement and base)
+Through creating this project, I learned that I knew more about programming than I thought I did.
+Because we proposed our projects at the beginning of the year, I started to get nervous that I wouldn’t know how to execute the program by the end of the semester, but I did!
+Also, while creating this program, I really learned the importance of compiling at EVERY step because I started over many times because I couldn’t figure out what was wrong with my program.
+Finally, I learned I really like programming and it surprisingly is really helpful in the field of neuroscience (which is my major) and even though I am not the best at programming, I chose to add it as a minor. 
+The end.
