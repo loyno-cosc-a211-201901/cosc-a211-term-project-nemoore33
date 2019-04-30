@@ -1,7 +1,0 @@
-/Users/nylamoore/Documents/cosc-a211-term-project-nemoore33/Proposal/MooreConverter.cpp:326:1: error: expected unqualified-id
-return 0;
-^
-/Users/nylamoore/Documents/cosc-a211-term-project-nemoore33/Proposal/MooreConverter.cpp:327:1: error: extraneous closing brace ('}')
-}
-^
-2 errors generated.
